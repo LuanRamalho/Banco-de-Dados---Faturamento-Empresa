@@ -1,0 +1,47 @@
+[
+    {
+        "Ano": 2020,
+        "Janeiro": 543.0,
+        "Fevereiro": 533.23,
+        "Mar\u00e7o": 555.0,
+        "Abril": 567.65,
+        "Maio": 585.21,
+        "Junho": 621.21,
+        "Julho": 578.95,
+        "Agosto": 521.34,
+        "Setembro": 545.44,
+        "Outubro": 623.77,
+        "Novembro": 589.66,
+        "Dezembro": 687.33
+    },
+    {
+        "Ano": 2021,
+        "Janeiro": 565.0,
+        "Fevereiro": 543.0,
+        "Mar\u00e7o": 478.0,
+        "Abril": 488.0,
+        "Maio": 512.0,
+        "Junho": 543.33,
+        "Julho": 566.77,
+        "Agosto": 682.32,
+        "Setembro": 689.9,
+        "Outubro": 721.32,
+        "Novembro": 653.22,
+        "Dezembro": 605.0
+    },
+    {
+        "Ano": 2022,
+        "Janeiro": 565.77,
+        "Fevereiro": 544.55,
+        "Mar\u00e7o": 577.66,
+        "Abril": 622.33,
+        "Maio": 690.22,
+        "Junho": 598.88,
+        "Julho": 567.88,
+        "Agosto": 534.56,
+        "Setembro": 523.44,
+        "Outubro": 623.44,
+        "Novembro": 688.23,
+        "Dezembro": 754.55
+    }
+]
